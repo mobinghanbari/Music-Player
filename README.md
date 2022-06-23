@@ -21,6 +21,8 @@ cd Music-Player/
 ### 2 . Build a virtual environment with virtualenv
 ```
 virtualenv venv
+
+venv/Scripts/activate.bat
 ```
 
 ### 3 . Install the requirements
