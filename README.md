@@ -11,17 +11,23 @@ The second point: when you run the program make sure to at the end of the select
 
 ## How To Get Run And Use The Project
 
-### 1 . Build a virtual environment with virtualenv
+### 1 .  Clone the project
+```
+git@github.com:mobinghanbari/Music-Player.git
+cd Music-Player/
+```
+
+### 2 . Build a virtual environment with virtualenv
 ```
 virtualenv venv
 ```
 
-### 2 . Install the requirements
+### 3 . Install the requirements
 ```
 pip install -r requirements.txt
 ```
 
-### 3 . Run code and enjoy from it
+### 4 . Run code and enjoy from it
 ```
 python code.py
 ```
