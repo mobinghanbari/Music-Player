@@ -24,7 +24,7 @@ for song in songs:
     playlist.insert(END, song)
 
 
-#The main functional part of the program
+# The main functional part of the program
 def playsong():
     currentsong=playlist.get(ACTIVE)
     print(currentsong)
