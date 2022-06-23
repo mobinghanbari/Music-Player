@@ -13,7 +13,7 @@ The second point: when you run the program make sure to at the end of the select
 
 ### 1 .  Clone the project
 ```
-clone git@github.com:mobinghanbari/Music-Player.git
+git clone git@github.com:mobinghanbari/Music-Player.git
 
 cd Music-Player/
 ```
