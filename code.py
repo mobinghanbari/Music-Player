@@ -10,3 +10,7 @@ def playsong():
     mixer.music.load(current_song)
     songstatus.set('Playing')
     mixer.music.play()
+
+def pausesong():
+    songstatus.set('Paused')
+    mixer.music.pause()
