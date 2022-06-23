@@ -9,6 +9,23 @@ The second point: when you run the program make sure to at the end of the select
 ## Images From Music Player
 ![Music Player](photo.png)
 
+## How To Get Run And Use The Project
+
+### 1 . Build a virtual environment with virtualenv
+```
+virtualenv venv
+```
+
+### 2 . Install the requirements
+```
+pip install -r requirements.txt
+```
+
+### 3 . Run code and enjoy from it
+```
+python code.py
+```
+
 ## Call Me
 
 ### My email : mobingh717@gmail.com
