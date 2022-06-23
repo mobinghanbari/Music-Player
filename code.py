@@ -6,6 +6,7 @@ import os
 #Preparatory and elementary part of the program
 root = Tk()
 root.title('Music Player')
+root.resizable(False, False)
 
 mixer.init()
 songstatus = StringVar()
