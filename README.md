@@ -2,12 +2,12 @@
 the small music player program with python
 
 ## Warning
-1. make sure to install the packages from the requirements file
+The first point: make sure to install the packages from the requirements file
 
-2. when you run the program make sure to at the end of the selected files be .mp3 not another thing
+The second point: when you run the program make sure to at the end of the selected files be .mp3 not another thing
 
 ## Images From Music Player
-![Music Player] (photo.png)
+![Music Player] (https://s6.uupload.ir/files/photo_lqd7.png)
 
 ## Call Me
 
