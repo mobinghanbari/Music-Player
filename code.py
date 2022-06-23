@@ -18,3 +18,7 @@ def pausesong():
 def stopsong():
     songstatus.set('Stopped')
     mixer.music.stop()
+
+def resumesong():
+    songstatus.set('Resuming')
+    mixer.music.unpause()
