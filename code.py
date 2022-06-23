@@ -3,7 +3,7 @@ from pygame import mixer
 from tkinter import *
 import os
 
-
+#The main functional part of the program
 def playsong():
     current_song = playlist.get(ACTIVE)
     print(current_song)
