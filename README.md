@@ -22,7 +22,7 @@ cd Music-Player/
 ```
 virtualenv venv
 
-venv/Scripts/activate.bat
+venv\Scripts\activate.bat
 ```
 
 ### 3 . Install the requirements
